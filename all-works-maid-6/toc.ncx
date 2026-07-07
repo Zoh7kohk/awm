@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="9798902094920" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! Vol. 6</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/section-0001.html#tableofcontents"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Color Gallery</text>
+      </navLabel>
+      <content src="Text/section-0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Table of Contents Page</text>
+      </navLabel>
+      <content src="Text/section-0004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/section-0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Copyrights and Credits</text>
+      </navLabel>
+      <content src="Text/section-0006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Characters</text>
+      </navLabel>
+      <content src="Text/section-0007-0008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/section-0009.html#auto_bookmark_toc_9"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 1: A Return to Form</text>
+      </navLabel>
+      <content src="Text/section-0010.html#auto_bookmark_toc_10"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 2: A Short Detour</text>
+      </navLabel>
+      <content src="Text/section-0011.html#auto_bookmark_toc_11"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 3: Micah’s Request and Midterms</text>
+      </navLabel>
+      <content src="Text/section-0016.html#auto_bookmark_toc_16"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 4: Something with Cecilia</text>
+      </navLabel>
+      <content src="Text/section-0018.html#auto_bookmark_toc_18"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 5: The Third Rudleberg Emergency Family Meeting</text>
+      </navLabel>
+      <content src="Text/section-0019.html#auto_bookmark_toc_19"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Chapter 6: Micah Makes Tracks, and More Midterms</text>
+      </navLabel>
+      <content src="Text/section-0020.html#auto_bookmark_toc_20"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Chapter 7: The Festival Ball Committee</text>
+      </navLabel>
+      <content src="Text/section-0021.html#auto_bookmark_toc_21"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Chapter 8: Class A Plans a Matinee</text>
+      </navLabel>
+      <content src="Text/section-0022.html#auto_bookmark_toc_22"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Chapter 9: After Homeroom</text>
+      </navLabel>
+      <content src="Text/section-0025.html#auto_bookmark_toc_25"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Chapter 10: A Meeting of Minds, a Meeting of Maids</text>
+      </navLabel>
+      <content src="Text/section-0026.html#auto_bookmark_toc_26"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Chapter 11: Investing in Vestments</text>
+      </navLabel>
+      <content src="Text/section-0027.html#auto_bookmark_toc_27"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Chapter 12: Hubert Returns</text>
+      </navLabel>
+      <content src="Text/section-0028.html#auto_bookmark_toc_28"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Chapter 13: Hubert Gets Handsy</text>
+      </navLabel>
+      <content src="Text/section-0029.html#auto_bookmark_toc_29"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Chapter 14: A Letter to a Stormy Cloud</text>
+      </navLabel>
+      <content src="Text/section-0030.html#auto_bookmark_toc_30"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Chapter 15: Into the Uovo del Mago</text>
+      </navLabel>
+      <content src="Text/section-0031.html#auto_bookmark_toc_31"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Chapter 16: Strange Dreams</text>
+      </navLabel>
+      <content src="Text/section-0034.html#auto_bookmark_toc_34"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Chapter 17: Growing Frustrations</text>
+      </navLabel>
+      <content src="Text/section-0035.html#auto_bookmark_toc_35"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Chapter 18: Reunion Rerun</text>
+      </navLabel>
+      <content src="Text/section-0036.html#auto_bookmark_toc_36"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Chapter 19: A Light Called Hope</text>
+      </navLabel>
+      <content src="Text/section-0037.html#auto_bookmark_toc_37"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Chapter 20: The Fallen Prince</text>
+      </navLabel>
+      <content src="Text/section-0040.html#auto_bookmark_toc_40"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Chapter 21: Finding Melody</text>
+      </navLabel>
+      <content src="Text/section-0041.html#auto_bookmark_toc_41"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Chapter 22: Kurita Maika and the Raiment of Stars</text>
+      </navLabel>
+      <content src="Text/section-0042.html#auto_bookmark_toc_42"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/section-0045.html#auto_bookmark_toc_45"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Bonus Story: Enlightenment</text>
+      </navLabel>
+      <content src="Text/section-0048.html#auto_bookmark_toc_48"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Extra Story: Rowdy Rudlebergs</text>
+      </navLabel>
+      <content src="Text/section-0049.html#auto_bookmark_toc_49"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/section-0050.html#auto_bookmark_toc_50"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>From the Creators</text>
+      </navLabel>
+      <content src="Text/section-0051.html#auto_bookmark_toc_50"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Newsletter</text>
+      </navLabel>
+      <content src="Text/section-0052.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

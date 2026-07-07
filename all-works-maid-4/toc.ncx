@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">  <head>
+    <meta content="9798897658725" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! Vol. 4</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="Text/section-0001.html#tableofcontents"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Color Gallery</text>
+      </navLabel>
+      <content src="Text/section-0002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Table of Contents Page</text>
+      </navLabel>
+      <content src="Text/section-0004.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Text/section-0005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Characters</text>
+      </navLabel>
+      <content src="Text/section-0006-0007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Copyrights and Credits</text>
+      </navLabel>
+      <content src="Text/section-0008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="Text/section-0009.html#auto_bookmark_toc_9"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Chapter 1: An Unannounced Guest</text>
+      </navLabel>
+      <content src="Text/section-0010.html#auto_bookmark_toc_10"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Chapter 2: Lect’s Request and Melody’s Answer</text>
+      </navLabel>
+      <content src="Text/section-0011.html#auto_bookmark_toc_11"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Chapter 3: Capriccio in the Foyer</text>
+      </navLabel>
+      <content src="Text/section-0012.html#auto_bookmark_toc_12"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Chapter 4: If the Schue Fits</text>
+      </navLabel>
+      <content src="Text/section-0013.html#auto_bookmark_toc_13"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Chapter 5: An Oblong Round Trip</text>
+      </navLabel>
+      <content src="Text/section-0016.html#auto_bookmark_toc_16"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Chapter 6: Party of Four Plus One Knight</text>
+      </navLabel>
+      <content src="Text/section-0017.html#auto_bookmark_toc_17"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Chapter 7: Rudleberg Week: Part One</text>
+      </navLabel>
+      <content src="Text/section-0018.html#auto_bookmark_toc_18"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Chapter 8: Rudleberg Week: Part Two</text>
+      </navLabel>
+      <content src="Text/section-0019.html#auto_bookmark_toc_19"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Chapter 9: Maxwell’s Mirth</text>
+      </navLabel>
+      <content src="Text/section-0020.html#auto_bookmark_toc_20"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Chapter 10: Lectias’s Lament</text>
+      </navLabel>
+      <content src="Text/section-0023.html#auto_bookmark_toc_23"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Chapter 11: To the Ball</text>
+      </navLabel>
+      <content src="Text/section-0024.html#auto_bookmark_toc_24"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Chapter 12: Enter: Cecilia</text>
+      </navLabel>
+      <content src="Text/section-0027.html#auto_bookmark_toc_27"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Chapter 13: Celedia Leginbarth</text>
+      </navLabel>
+      <content src="Text/section-0028.html#auto_bookmark_toc_28"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Chapter 14: The Summer Ball Begins</text>
+      </navLabel>
+      <content src="Text/section-0029.html#auto_bookmark_toc_29"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Chapter 15: An Imperial Invitation</text>
+      </navLabel>
+      <content src="Text/section-0034.html#auto_bookmark_toc_34"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Chapter 16: Ciestine van Rordpier</text>
+      </navLabel>
+      <content src="Text/section-0035.html#auto_bookmark_toc_35"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Chapter 17: To Dance with an Angel</text>
+      </navLabel>
+      <content src="Text/section-0036.html#auto_bookmark_toc_36"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Chapter 18: Hounds on the Hunt</text>
+      </navLabel>
+      <content src="Text/section-0037.html#auto_bookmark_toc_37"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Chapter 19: Luciana, Harisen Warrior</text>
+      </navLabel>
+      <content src="Text/section-0039.html#auto_bookmark_toc_39"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Chapter 20: A New Way Forward</text>
+      </navLabel>
+      <content src="Text/section-0040.html#auto_bookmark_toc_40"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Chapter 21: Cecilia McMarden</text>
+      </navLabel>
+      <content src="Text/section-0043.html#auto_bookmark_toc_43"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="Text/section-0044.html#auto_bookmark_toc_44"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Side Story: Anna-Marie’s Debonair Day of Roguish Romance</text>
+      </navLabel>
+      <content src="Text/section-0045.html#auto_bookmark_toc_45"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Bonus Story: After the Ball—Ciestine and the Smile</text>
+      </navLabel>
+      <content src="Text/section-0048.html#auto_bookmark_toc_48"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/section-0049.html#auto_bookmark_toc_49"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>From the Creators</text>
+      </navLabel>
+      <content src="Text/section-0050.html#auto_bookmark_toc_50"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Newsletter</text>
+      </navLabel>
+      <content src="Text/section-0051.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
